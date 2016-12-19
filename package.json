@@ -1,0 +1,23 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "Learn Web Developer Knownledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtang2018/learn.git"
+  },
+  "author": "David Tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidtang2018/learn/issues"
+  },
+  "homepage": "https://github.com/davidtang2018/learn#readme",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "sqlite3": "^3.1.8"
+  }
+}
